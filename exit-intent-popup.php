@@ -4,7 +4,7 @@ Plugin Name: Exit Intent Popup
 Description: Emulates an exit-intent popup on all pages of the website.
 Version: 1.0
 Author: Abrar Ibrahim
-Author URI: https://github.com/ajdev0
+Author URI: https://github.com/ajdev0/exit-intent-popup
 */
 
 function enqueue_exit_intent_scripts() {
