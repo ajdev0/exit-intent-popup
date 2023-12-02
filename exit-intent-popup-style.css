@@ -1,0 +1,36 @@
+#exit-intent-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgb(0, 3, 31) !important;
+  color: #ffffff;
+  padding: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  z-index: 9999;
+  text-align: center;
+  position: relative;
+  border-radius: 4px;
+}
+
+#exit-intent-popup h2 {
+  color: #ffffff;
+}
+
+#exit-intent-popup p {
+  color: #ffffff;
+}
+
+#exit-intent-popup button {
+  background-color: rgb(0, 136, 255);
+
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+#exit-intent-popup button:hover {
+  background-color: #ffd700;
+}
